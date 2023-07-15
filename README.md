@@ -8,14 +8,14 @@
 SHOP ART is a website and web app tailored towards supplying and purchasing classical, contemporary, and modern art to customers worldwide.
 </p>
 
-- [AUTHORS](AUTHORS)
-- [TECHNOLOGIES](TECHNOLOGIES)
+- [AUTHORS](https://github.com/Ogoobaby/shop_art/blob/main/README.md#authors)
+- [TECHNOLOGIES](https://github.com/Ogoobaby/shop_art/blob/main/README.md#technologies)
 - [CHALLENGE STATEMENT](CHALLENGE_STATEMENT)
-- [RISKS](RISKS)
-- [INFRASTRUCTURE](INFRASTRUCTURE)
+- [RISKS](https://github.com/Ogoobaby/shop_art/blob/main/README.md#risks)
+- [INFRASTRUCTURE](https://github.com/Ogoobaby/shop_art/blob/main/README.md#infrastructure)
 - [EXISTING SOLUTIONS](EXISTING_SOLUTIONS)
-- [CONTRIBUTION](CONTRIBUTION)
-- [LICENSE](LICENSE)
+- [CONTRIBUTION](https://github.com/Ogoobaby/shop_art/blob/main/README.md#contribution)
+- [LICENSE](https://github.com/Ogoobaby/shop_art/blob/main/README.md#license)
 
 ## AUTHORS
 
