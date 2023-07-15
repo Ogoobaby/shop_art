@@ -10,10 +10,10 @@ SHOP ART is a website and web app tailored towards supplying and purchasing clas
 
 - [AUTHORS](https://github.com/Ogoobaby/shop_art/blob/main/README.md#authors)
 - [TECHNOLOGIES](https://github.com/Ogoobaby/shop_art/blob/main/README.md#technologies)
-- [CHALLENGE STATEMENT](CHALLENGE_STATEMENT)
+- [CHALLENGE STATEMENT](https://github.com/Ogoobaby/shop_art/blob/main/README.md#challenge-statement)
 - [RISKS](https://github.com/Ogoobaby/shop_art/blob/main/README.md#risks)
 - [INFRASTRUCTURE](https://github.com/Ogoobaby/shop_art/blob/main/README.md#infrastructure)
-- [EXISTING SOLUTIONS](EXISTING_SOLUTIONS)
+- [EXISTING SOLUTIONS](https://github.com/Ogoobaby/shop_art/blob/main/README.md#existing-solutions)
 - [CONTRIBUTION](https://github.com/Ogoobaby/shop_art/blob/main/README.md#contribution)
 - [LICENSE](https://github.com/Ogoobaby/shop_art/blob/main/README.md#license)
 
